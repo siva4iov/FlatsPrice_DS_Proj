@@ -1,0 +1,32 @@
+;name;meaning
+0;Appliances_1;утюг
+1;Appliances_2;телевизор
+2;Appliances_3;водонагреватель
+3;Appliances_4;кондиционер
+4;Appliances_5;посудомоечная машина
+5;Appliances_6;фен
+6;Appliances_7;микроволновка
+7;Appliances_8;плита
+8;Appliances_9;стиральная машина
+9;Appliances_10;холодильник
+10;Balcony_1;балкон
+11;Balcony_2;лоджия
+12;Furniture_1;хранение одежды
+13;Furniture_2;кухня
+14;Furniture_3;спальные места
+15;Internet_tv_1;телевидение
+16;Internet_tv_2;Wi-Fi
+17;Bathroom_1;раздельный
+18;Bathroom_2;совмещенный
+19;Utilities_1;включена в плату
+20;Room_type_1;изолированные
+21;Room_type_2;смежные
+22;Советский;district_1
+23;Вахитовский;district_2
+24;Приволжский;district_3
+25;Ново-Савиновский;district_4
+26;Московский;district_5
+27;Кировский;district_6
+28;Авиастроительный;district_7
+29;микро М-14;district_8
+30;РУВД Московского а;district_9
