@@ -21,12 +21,12 @@ Bathroom_2;совмещенный
 Utilities_1;включена в плату
 Room_type_1;изолированные
 Room_type_2;смежные
-Советский;district_1
-Вахитовский;district_2
-Приволжский;district_3
-Ново-Савиновский;district_4
-Московский;district_5
-Кировский;district_6
-Авиастроительный;district_7
-микро М-14;district_8
-РУВД Московского а;district_9
+district_1;Советский
+district_2;Вахитовский
+district_3;Приволжский
+district_4;Ново-Савиновский
+district_5;Московский
+district_6;Кировский
+district_7;Авиастроительный
+district_8;микро М-14
+district_9;РУВД Московского а
